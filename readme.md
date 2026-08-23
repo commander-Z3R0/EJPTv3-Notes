@@ -373,7 +373,7 @@ lesson-es.md  # Spanish
 lesson-fr.md  # French
 ```
 
-The complete directory tree is available in [`tree.md`](./tree.md).
+The complete directory tree is available in [`tree-en.md`](./tree-en.md).
 
 ## Contributing
 
@@ -390,5 +390,3 @@ When contributing, please preserve the existing naming convention and add or upd
 ## Disclaimer
 
 This repository is intended for cybersecurity education, lab environments, and authorized penetration testing. The author is not responsible for misuse, damage, or illegal activity resulting from the information contained in this project.
-
-The original repository is available on [GitHub](https://github.com/cz/eJPT-Notes/).
