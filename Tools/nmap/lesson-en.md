@@ -1,4 +1,4 @@
-# Nmap Command Cheat Sheet
+# Nmap CheatSheet
 
 ## Overview
 
