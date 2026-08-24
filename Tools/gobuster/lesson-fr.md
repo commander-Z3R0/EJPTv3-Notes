@@ -1,4 +1,4 @@
-# Fiche de référence des commandes Gobuster
+# Cheatsheet Gobuster
 
 ## Aperçu
 
