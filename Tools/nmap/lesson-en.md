@@ -1,4 +1,4 @@
-# Nmap CheatSheet
+# Nmap Cheatsheet
 
 ## Overview
 
