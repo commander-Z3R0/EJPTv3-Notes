@@ -1,4 +1,4 @@
-# Gobuster Command Cheat Sheet
+# Gobuster Cheat Sheet
 
 ## Overview
 
