@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Nmap Cheatsheet
-=======
 # Nmap Cheat Sheet
->>>>>>> ab4cfff (New lessons Tools)
 
 ## Overview
 
