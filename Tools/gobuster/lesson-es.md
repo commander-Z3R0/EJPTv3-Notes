@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Cheatsheet Gobuster
-=======
 # Gobuster Cheat Sheet
->>>>>>> ab4cfff (New lessons Tools)
 
 ## Resumen
 
