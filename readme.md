@@ -1,4 +1,4 @@
-# eJPT Notes
+# eJPTv2-Notes-Multilang
 
 A multilingual, text-based study guide for the **Junior Penetration Tester (eJPT)** course. This repository condenses approximately **100 hours of course content** into structured notes focused on the most important concepts, techniques, tools, and commands.
 
